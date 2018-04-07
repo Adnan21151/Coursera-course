@@ -18,7 +18,7 @@
 .lightblue {
     background-color: lightblue;
 }
-.row {
+.row div {
     border: 1px solid black;
     position: relative;
     background-color: lightgray;
